@@ -46,27 +46,6 @@ Afyadux is a platform that utilizes cutting-edge technology to provide individua
 * [MomentJS](https://momentjs.com/) (Time Parsing)
 
 
-
-## Installation
-Install Dependencies
-```
-npm install react --save
-npm install webpack-dev-server
-npm install --save typescript @types/node @types/react @types/react-dom
-```
-
-
-Install Commands
-```
-npm install
-```
-
-Run Commands
-``` 
-npm run dev
-```
-
-
 ## Roadmap
 
 - [x] Project Architecture
@@ -81,7 +60,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Carl Omondi - [@contact](mailto:contact@afyadux.org) - contact@afyadux.org <br>
+Support - [@contact](mailto:support@afyadux.org) - support@afyadux.org <br>
 Project Link: [Github Repo](https://github.com/afyadux/)
 
 
