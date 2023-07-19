@@ -14,7 +14,7 @@
 
 <div align="center">
 
-  <img width="1536" alt="project" src="https://user-images.githubusercontent.com/98195031/212464463-486765bd-b43d-472c-9378-40b089a73d68.png">
+  <img width="1536" alt="project" src="https://github.com/afyadux/.github/assets/98195031/03636ff2-6184-4f19-8485-f9ac9ee25330.png">
 
   <h3 align="center">Afyadux</h3>
 
@@ -25,7 +25,7 @@
 
 </div>
 <br>
-https://github.com/afyadux/.github/assets/98195031/03636ff2-6184-4f19-8485-f9ac9ee25330
+
 
 <br>
 <br>
