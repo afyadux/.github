@@ -19,8 +19,7 @@
   <h3 align="center">Afyadux</h3>
 
   <div align="center">
-    <a target="_blank" href="https://alpha.afyadux.org">View Live &#8599;</a> ·
-
+    <a target="_blank" href="https://alpha.afyadux.org">View Live &#8599;</a>
     <a href="https://github.com/afyadux/.github/blob/main/LICENSE">Licence</a>
   </div>
 
