@@ -14,12 +14,13 @@
 
 <div align="center">
 
-  <img width="1536" alt="project" src="https://github.com/afyadux/.github/assets/98195031/03636ff2-6184-4f19-8485-f9ac9ee25330.png">
+  <img width="1536" alt="project" src="https://github.com/afyadux/.github/assets/98195031/1ab63596-99dc-4fa1-9b09-7da6c9b7d168.png">
 
   <h3 align="center">Afyadux</h3>
 
   <div align="center">
     <a target="_blank" href="https://alpha.afyadux.org">View Live &#8599;</a> ·
+
     <a href="https://github.com/afyadux/.github/blob/main/LICENSE">Licence</a>
   </div>
 
